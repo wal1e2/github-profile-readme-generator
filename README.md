@@ -160,6 +160,7 @@ This tool includes privacy-friendly analytics to help improve the user experienc
 - **Cookie consent banner** - users can opt-out anytime
 - **No personal data** collection - only anonymous usage patterns
 
+
 ## 📄 Font Licensing
 
 This project uses the **Wotfard** font family:
@@ -186,6 +187,13 @@ For commercial use of this project, please verify font licensing requirements.
   </a>
   <a href="https://www.buymeacoffee.com/rahuldkjain" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="23" width="100" style="border-radius:2px" />
 </p>
+
+## 🌟 Star History
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date" />
+  <img alt="GPRG Star History Chart" src="https://api.star-history.com/svg?repos=rahuldkjain/github-profile-readme-generator&type=Date" />
+</picture>
 
 <hr>
 <p align="center">
